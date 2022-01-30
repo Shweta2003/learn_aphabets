@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.learnalphabets">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LearnAlphabets">
+        <activity
+            android:name=".n_button"
+            android:exported="false"
+            android:label="@string/title_activity_nbutton"
+            android:theme="@style/Theme.LearnAlphabets.NoActionBar" />
+        <activity
+            android:name=".z_button"
+            android:exported="false" />
+        <activity
+            android:name=".y_button"
+            android:exported="false" />
+        <activity
+            android:name=".x_button"
+            android:exported="false" />
+        <activity
+            android:name=".w_button"
+            android:exported="false" />
+        <activity
+            android:name=".v_button"
+            android:exported="false" />
+        <activity
+            android:name=".u_button"
+            android:exported="false" />
+        <activity
+            android:name=".t_button"
+            android:exported="false" />
+        <activity
+            android:name=".s_button"
+            android:exported="false" />
+        <activity
+            android:name=".r_button"
+            android:exported="false" />
+        <activity
+            android:name=".q_button"
+            android:exported="false" />
+        <activity
+            android:name=".p_button"
+            android:exported="false" />
+        <activity
+            android:name=".o_button"
+            android:exported="false" />
+        <activity
+            android:name=".m_button"
+            android:exported="false" />
+        <activity
+            android:name=".l_button"
+            android:exported="false" />
+        <activity
+            android:name=".k_button"
+            android:exported="false" />
+        <activity
+            android:name=".j_button"
+            android:exported="false" />
+        <activity
+            android:name=".i_button"
+            android:exported="false" />
+        <activity
+            android:name=".h_button"
+            android:exported="false" />
+        <activity
+            android:name=".g_button"
+            android:exported="false" />
+        <activity
+            android:name=".f_button"
+            android:exported="false" />
+        <activity
+            android:name=".e_button"
+            android:exported="false" />
+        <activity
+            android:name=".d_button"
+            android:exported="false" />
+        <activity
+            android:name=".c_button"
+            android:exported="false" />
+        <activity
+            android:name=".b_button"
+            android:exported="false" />
+        <activity
+            android:name=".DisplayMessageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

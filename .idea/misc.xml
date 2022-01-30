@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/a_button.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_abutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_bbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_cbutton.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_dbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_display_message.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_ebutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_fbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_gbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_hbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_ibutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_jbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_kbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_lbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_main.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_mbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_nbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_nbutton2.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_obutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_pbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_qbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_rbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_sbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_tbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_ubutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_vbutton.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_wbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_xbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_ybutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/activity_zbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/content_nbutton.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/fragment_first.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/layout/fragment_second.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Acer/Downloads/LearnAlphabets/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
